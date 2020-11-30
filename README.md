@@ -22,6 +22,6 @@ Load this folder at eclips work space.
 
 start your mysql server and import bank.sql file at database.
 
-Check the activate port number.
+Check the activ port number.
 
 just run the java code.
